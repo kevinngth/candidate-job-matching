@@ -1,0 +1,26 @@
+{
+    "name": "candidate-job-matching",
+    "version": "1.0.0",
+    "description": "coding kata",
+    "main": "index.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kevinngth/candidate-job-matching.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/kevinngth/candidate-job-matching/issues"
+    },
+    "homepage": "https://github.com/kevinngth/candidate-job-matching#readme",
+    "dependencies": {
+        "jest": "^26.1.0"
+    }
+}
